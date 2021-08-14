@@ -1,4 +1,4 @@
 # memory-scan
 mkdir dumps
 
-Detect suspcoius shellcode/pe in memory
+Detect suspicious shellcode/pe in memory
