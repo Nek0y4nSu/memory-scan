@@ -106,5 +106,5 @@ def gen_report(task_id:str,dmp_meta_list:list):
     f = open("report-" + task_id + ".html","w")
     f.write(report_html)
     f.close()
-    print("[+]Report save to file:  report-" + task_id + ".html")
+    print("[+]Report save to file:  report-" + task_id + ".htm")
     
